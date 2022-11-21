@@ -20,12 +20,12 @@
       cursor: pointer;
   
       & .background-image {
-        transform: scale(1.1);
+        transform: scale(1.2);
         transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
       }
   
       & .category-body-container {
-        opacity: 0.9;
+        opacity: 0.8;
       }
     }
   
@@ -63,13 +63,15 @@
       h2 {
         font-weight: bold;
         margin: 0 6px 0;
-        font-size: 22px;
+        font-size: 23 px;
         color: #4a4a4a;
+        
       }
   
       p {
-        font-weight: lighter;
-        font-size: 16px;
+        font-weight: bold;
+        font-size: 20 px;
+        color: #4a4a4a;
       }
     }
   }

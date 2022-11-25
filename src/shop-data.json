@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Knot and Farisha",
+      "imageUrl": "https://i.ibb.co/7JGTzqH/farisha-em.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Knot",
+      "imageUrl": "https://i.ibb.co/C91Vhsq/knot-em.jpg",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Persian",
+      "imageUrl": "https://i.ibb.co/rMqLRvG/em.jpg",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Hand Work",
+      "imageUrl": "https://i.ibb.co/XSwtDZF/zardozi-em2.jpg",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Aari",
+      "imageUrl": "https://i.ibb.co/NF2skhH/aari-em.jpg",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Zardozi",
+      "imageUrl": "https://i.ibb.co/26gNpy2/zardozi-em.jpg",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Kundan",
+      "imageUrl": "https://i.ibb.co/W2KyX1s/kundan-work.jpg",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "Parsi",
+      "imageUrl": "https://i.ibb.co/bssdGJc/parsi.jpg",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Persian Hand work",
+      "imageUrl": "https://i.ibb.co/ctDsFg9/persian.jpg",
+      "price": 16
+    }
+  ]
+
+  
+
+
+
+
+

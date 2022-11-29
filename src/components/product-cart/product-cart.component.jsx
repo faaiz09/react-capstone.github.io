@@ -1,11 +1,11 @@
-import './product-card.styles.scss';
+import './product-cart.styles.scss';
 
 import Button from '../button/button.component';
 
 const ProductCard = ({ product }) => {
   const { name, price, imageUrl } = product;
   return (
-    <div className='product-card-container'>
+    <div className='product-cart-container'>
       <img src={imageUrl} alt={`${name}`} />
       <div className='footer'>
         <span className='name'>{name}</span>

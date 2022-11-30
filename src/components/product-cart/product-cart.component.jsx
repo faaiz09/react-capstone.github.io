@@ -6,7 +6,7 @@ import Button from '../button/button.component';
 
 import './product-cart.styles.scss';
 
-const ProductCard = ({ product }) => {
+const ProductCart = ({ product }) => {
   const { name, price, imageUrl } = product;
   const { addItemToCart } = useContext(CartContext);
 
@@ -26,4 +26,4 @@ const ProductCard = ({ product }) => {
   );
 };
 
-export default ProductCard;
+export default ProductCart;
